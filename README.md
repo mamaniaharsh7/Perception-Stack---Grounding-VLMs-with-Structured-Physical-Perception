@@ -1,0 +1,2 @@
+# Perception-Stack---Grounding-VLMs-with-Structured-Physical-Perception
+Engineered a 4-stage perception pipeline integrating Mask R-CNN proposals, SAM 2 video segmentation, Depth Anything V2, and RAFT optical flow to convert raw video into structured natural-language physical context (object trajectories, collision-plane depth scalars, and velocity vectors) to aid VLMS with video-based collision &amp; causal reasoning.
